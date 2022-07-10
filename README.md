@@ -13,5 +13,7 @@ Problem Solving에 쓰인 C, CPP 코드들이 담긴 레포지토리입니다!
 * 스위치: https://shacoding.com/2021/11/16/%eb%ac%b8%ec%a0%9c%ed%92%80%ec%9d%b4-%ec%8a%a4%ec%9c%84%ec%b9%98-c/
 * 더블 레인보우: https://shacoding.com/2021/12/25/%eb%ac%b8%ec%a0%9c%ed%92%80%ec%9d%b4-double-rainbow-cpp/
 * 버스:  https://shacoding.com/2021/04/14/%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98-%eb%b2%84%ec%8a%a4-%ed%83%91%ec%8a%b9-%ec%8a%a4%ec%bc%80%ec%a4%84%eb%a7%81/
+* 영화 스케줄: https://shacoding.com/2022/04/05/%eb%ac%b8%ec%a0%9c%ed%92%80%ec%9d%b4-%ec%98%81%ed%99%94-%ec%8a%a4%ec%bc%80%ec%a4%84-cpp/
+* 홀수 사이클: https://shacoding.com/2022/06/15/%eb%ac%b8%ec%a0%9c%ed%92%80%ec%9d%b4-%ed%99%80%ec%88%98-%ec%82%ac%ec%9d%b4%ed%81%b4-cpp/
 
 <strong>(주의)</strong> Dev-C++로 컴파일해야 정상 작동됩니다!!
